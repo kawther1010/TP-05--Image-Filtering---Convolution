@@ -1,4 +1,4 @@
-# 🖼️ TP 05: Image Filtering & Convolution BY Dr Guessoum
+# 🖼️ TP 05: Image Filtering & Convolution  BY Dr Guessoum
 
 ## 🎯 Objectives  
 1. Understand the concepts of **image blurring** and **filtering**.  
